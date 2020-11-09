@@ -16,6 +16,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Libraries](#libraries)
   - [Notifications](#notifications)
   - [PDF Viewers](#pdf-viewers)
+  - [Remote control](#remote-control)
   - [Screen Locking](#screen-locking)
   - [Screencasting](#screencasting)
   - [Screenshots](#screenshots)
@@ -99,6 +100,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## PDF Viewers
 
 * [zathura](https://git.pwmt.org/pwmt/zathura) - A document viewer
+
+## Remote control
+
+* [wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based compositors
 
 ## Screen Locking
 
