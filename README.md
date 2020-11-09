@@ -1,6 +1,8 @@
-# Awesome Wayland
+# Awesome wlroots
 
-A curated list of [Wayland](https://gitlab.freedesktop.org/wayland/wayland) code and resources.
+A curated list of tools and compositors around [wlroots](https://github.com/swaywm/wlroots). 
+
+wlroots is a compositor library and defines a large and diverse ecosystem around [wlr-protocols](https://github.com/swaywm/wlr-protocols). 
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
@@ -11,6 +13,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
+  - [Docks](#docks)
   - [Image Viewers](#image-viewers)
   - [Launchers](#launchers)
   - [Libraries](#libraries)
@@ -60,8 +63,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
-* [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
-* [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL.
 
 ## Display Configuration
 
@@ -70,6 +71,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 * [wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
+
+## Docks
+
+wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simple dock for application switching (no launching)
 
 ## Image Viewers
 
@@ -88,7 +93,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Libraries
 
 * [client toolkit](https://github.com/Smithay/client-toolkit) - A toolkit for writing Wayland clients in Rust
-* [swc](https://github.com/michaelforney/swc) - A library for making a simple Wayland compositor
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 * [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
@@ -129,7 +133,8 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [i3status-rust](https://github.com/greshake/i3status-rust) - Very resource-friendly and feature-rich replacement for i3status, written in pure Rust
 * [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Root Bar is a bar for wlroots based Wayland compositors such as sway
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
-* [yambar](https://codeberg.org/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
+* wf-panel (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Panel with support for application launchers
+* [yambar](https://gitlab.com/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
 
 ## Tools
 
@@ -157,7 +162,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
-* [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
+* wf-background (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Simple wallpaper program supporting switching of images
 
 ## License
 
