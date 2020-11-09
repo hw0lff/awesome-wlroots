@@ -60,6 +60,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
 * [epd-wm](https://github.com/dj311/epd-wm) - Wayland window manager that outputs to IT8951 E-Paper displays. 
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
+* [kiwmi](https://github.com/buffet/kiwmi) -  A fully programmable Wayland Compositor 
 * [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
