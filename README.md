@@ -71,6 +71,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 ## Keyboards
 
+* [wf-osk](https://github.com/WayfireWM/wf-osk) - A very, very basic on-screen keyboard using gtkmm, virtual-keyboard-v1 and layer-shell protocols
 * [wvkbd](https://github.com/jjsullivan5196/wvkbd) - A "suckless" on screen keyboard
 
 ## Launchers
