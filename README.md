@@ -48,6 +48,7 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 
 * [Cagebreak](https://github.com/project-repo/cagebreak) - A Wayland tiling compositor inspired by Ratpoison
 * [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
+* [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 * [epd-wm](https://github.com/dj311/epd-wm) - Wayland window manager that outputs to IT8951 E-Paper displays. 
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [kiwmi](https://github.com/buffet/kiwmi) -  A fully programmable Wayland Compositor 
