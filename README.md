@@ -25,7 +25,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Session Management](#session-management)
   - [Status Bars](#status-bars)
   - [Tools](#tools)
-  - [Video Players](#video-players)
   - [Wallpaper](#wallpaper)
   - [License](#license)
 
@@ -124,10 +123,6 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 * [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
 * [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
-
-## Video Players
-
-* [mpv](https://github.com/mpv-player/mpv) - Command line video player
 
 ## Wallpaper
 
