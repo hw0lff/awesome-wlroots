@@ -15,7 +15,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
   - [Docks](#docks)
-  - [Image Viewers](#image-viewers)
   - [Launchers](#launchers)
   - [Libraries](#libraries)
   - [Notifications](#notifications)
@@ -67,11 +66,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Docks
 
 wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simple dock for application switching (no launching)
-
-## Image Viewers
-
-* [imv](https://github.com/eXeC64/imv) - A command line image viewer for X11/Wayland
-* [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 
 ## Launchers
 
