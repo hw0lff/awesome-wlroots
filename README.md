@@ -16,7 +16,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Display Configuration](#display-configuration)
   - [Docks](#docks)
   - [Launchers](#launchers)
-  - [Libraries](#libraries)
   - [Notifications](#notifications)
   - [Remote control](#remote-control)
   - [Screen Locking](#screen-locking)
@@ -72,12 +71,6 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
 * [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - A GTK-based application grid launcher, button bar and dmenu for Wayland
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
-
-## Libraries
-
-* [client toolkit](https://github.com/Smithay/client-toolkit) - A toolkit for writing Wayland clients in Rust
-* [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
-* [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
 ## Notifications
 
