@@ -4,7 +4,7 @@ A curated list of tools and compositors around [wlroots](https://github.com/sway
 
 wlroots is a compositor library and defines a large and diverse ecosystem around [wlr-protocols](https://github.com/swaywm/wlr-protocols). 
 
-This list is dedicated to cool stuff around wlroots. For more general cool stuff around wayland check out [awesome-wayland](https://github.com/natpen/awesome-wayland). 
+This list is dedicated to cool stuff/useful tools for wlroots desktops. For general cool stuff and applications on Wayland check out [awesome-wayland](https://github.com/natpen/awesome-wayland). 
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
