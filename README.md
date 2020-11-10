@@ -90,6 +90,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 ## Remote control
 
+* [waynergy](https://github.com/r-c-f/waynergy) - An implementation of a synergy client for wlroots compositors ("not ready for primetime")
 * [wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based compositors
 
 ## Screen Locking
