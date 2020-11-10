@@ -31,6 +31,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), or just directly manipulate `/sys/class/backlight`.
 
+wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`. 
+
 * [gammastep](https://gitlab.com/chinstrap/gammastep) - Tints the display orange to reduce stress on the eyes (Redshift fork with wlroots compatibility patch)
 * [wl-gammactl](https://github.com/mischw/wl-gammactl) - Control brightness, contrast and gamma
 * [wlr-brightness](https://github.com/mherzberg/wlr-brightness) - A dbus-controllable overlay to darken your screen
