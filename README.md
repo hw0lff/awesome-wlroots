@@ -24,7 +24,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Screenshots](#screenshots)
   - [Session Management](#session-management)
   - [Status Bars](#status-bars)
-  - [Terminal Emulators](#terminal-emulators)
   - [Tools](#tools)
   - [Video Players](#video-players)
   - [Wallpaper](#wallpaper)
@@ -125,18 +124,6 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 * [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
 * [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
-
-## Terminal Emulators
-
-* [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
-* [Ate](https://github.com/andir/ate) - Awesome terminal emulator
-* [Foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator
-* [Germinal](https://github.com/Keruspe/Germinal) - Minimalist vte-based terminal emulator
-* [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) - A terminal emulator for GNOME
-* [Havoc](https://github.com/ii8/havoc) - A minimal terminal emulator for Wayland
-* [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-full, GPU-based terminal emulator
-* [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support
-* [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
 
 ## Video Players
 
