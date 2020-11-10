@@ -15,6 +15,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
   - [Docks](#docks)
+  - [Keyboards](#keyboards)
   - [Launchers](#launchers)
   - [Notifications](#notifications)
   - [Remote control](#remote-control)
@@ -67,6 +68,8 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 ## Docks
 
 wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simple dock for application switching (no launching)
+
+## Keyboards
 
 ## Launchers
 
