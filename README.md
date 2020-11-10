@@ -71,6 +71,8 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 ## Keyboards
 
+* [wvkbd](https://github.com/jjsullivan5196/wvkbd) - A "suckless" on screen keyboard
+
 ## Launchers
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
