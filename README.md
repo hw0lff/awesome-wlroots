@@ -35,6 +35,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`. 
 
 * [gammastep](https://gitlab.com/chinstrap/gammastep) - Tints the display orange to reduce stress on the eyes (Redshift fork with wlroots compatibility patch)
+* [wluma](https://github.com/maximbaz/wluma) - Automatically adjusts screen brightness based on the screen contents and amount of ambient light
 * [wl-gammactl](https://github.com/mischw/wl-gammactl) - Control brightness, contrast and gamma
 * [wlr-brightness](https://github.com/mherzberg/wlr-brightness) - A dbus-controllable overlay to darken your screen
 * [Wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1.
