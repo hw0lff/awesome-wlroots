@@ -55,6 +55,7 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 * [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+* [tinybox](https://github.com/icedman/tinybox) - tries to emulate the blackbox, fluxbox, openbox family of wm
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 
