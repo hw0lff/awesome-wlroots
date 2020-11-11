@@ -139,6 +139,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
+* [wbg](https://codeberg.org/dnkl/wbg) - Super simple wallpaper application for Wayland compositors implementing the layer-shell protocol
 * wf-background (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Simple wallpaper program supporting switching of images
 
 ## License
