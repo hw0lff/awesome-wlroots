@@ -52,6 +52,7 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 * [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 * [epd-wm](https://github.com/dj311/epd-wm) - Wayland window manager that outputs to IT8951 E-Paper displays. 
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
+* [Hopalong](https://github.com/iridescent-desktop/hopalong) - Simple Wayland compositor with a featureset comparable to XFWM
 * [kiwmi](https://github.com/buffet/kiwmi) -  A fully programmable Wayland Compositor 
 * [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
 * [laikawm](https://github.com/ianmartinez/laikawm) - A stacking Wayland compositor with look and feel of openbox
