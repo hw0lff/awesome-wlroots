@@ -1,6 +1,6 @@
 # Awesome wlroots
 
-A curated list of tools and compositors around [wlroots](https://github.com/swaywm/wlroots). 
+A list of tools and compositors around [wlroots](https://github.com/swaywm/wlroots). 
 
 wlroots is a compositor library and defines a large and diverse ecosystem around [wlr-protocols](https://github.com/swaywm/wlr-protocols). 
 
