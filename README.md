@@ -103,6 +103,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 ## Screen Locking
 
+* [shaderlock](https://github.com/Xenopathic/shaderlock) - Screen locker with GPU shaders
 * [swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 * [swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 * [swaylock-effects](https://github.com/mortie/swaylock-effects) - A fork of swaylock with effects such as a blurred screenshot as background or a clock on the lockscreen
