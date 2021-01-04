@@ -21,9 +21,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Remote control](#remote-control)
   - [Screen Locking](#screen-locking)
   - [Screencasting](#screencasting)
-  - [Screenshots](#screenshots)
-  - [Session Management](#session-management)
-  - [Status Bars](#status-bars)
   - [Tools](#tools)
   - [Wallpaper](#wallpaper)
   - [License](#license)
@@ -123,6 +120,8 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
+* [Taiga](https://hg.sr.ht/~scoopta/taiga) - Animated screenshot program
+
 
 ## Session Management
 
