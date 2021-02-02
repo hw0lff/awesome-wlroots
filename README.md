@@ -145,6 +145,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 ## Wallpaper
 
+* [Azote](https://github.com/nwg-piotr/azote) - Picture browser and background setter frontend to swaybg 
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
