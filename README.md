@@ -96,6 +96,8 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 
 ## Miscellaneous
 
+* [wl-color-picker](https://github.com/jgmdev/wl-color-picker) - Script providing a working color picker using grim and slurp
+
 ## Notifications
 
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
