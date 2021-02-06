@@ -91,6 +91,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for Wayland written in Rust
 * [wldash](https://github.com/kennylevinsen/wldash) - Wayland dashboard and launcher written in Rust
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
+* [yofi](https://github.com/l4l/yofi) - Minimalistic menu
 
 ## Notifications
 
