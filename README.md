@@ -17,6 +17,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Docks](#docks)
   - [Keyboards](#keyboards)
   - [Launchers](#launchers)
+  - [Miscellaneous](#miscellaneous)
   - [Notifications](#notifications)
   - [Remote control](#remote-control)
   - [Screen Locking](#screen-locking)
@@ -92,6 +93,8 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [wldash](https://github.com/kennylevinsen/wldash) - Wayland dashboard and launcher written in Rust
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
 * [yofi](https://github.com/l4l/yofi) - Minimalistic menu
+
+## Miscellaneous
 
 ## Notifications
 
