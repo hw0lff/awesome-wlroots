@@ -97,6 +97,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 ## Miscellaneous
 
 * [wl-color-picker](https://github.com/jgmdev/wl-color-picker) - Script providing a working color picker using grim and slurp
+* [wob](https://github.com/francma/wob/) - Light-weight overlay volume/backlight/progress/anything bar
 
 ## Notifications
 
