@@ -13,6 +13,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Brightness Control](#brightness-control)
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
+  - [Configurations](#configurations)
   - [Display Configuration](#display-configuration)
   - [Docks](#docks)
   - [Keyboards](#keyboards)
@@ -61,6 +62,11 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [wio](https://git.sr.ht/~sircmpwn/wio) - Wayland compositor similar to plan9's rio
+
+## Configurations
+
+* [sway-gnome](https://github.com/Drakulix/sway-gnome) - Allows you to use Sway with GNOME 3 Session infrastructure
+
 
 ## Display Configuration
 
