@@ -149,6 +149,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [Wapanel](https://github.com/Firstbober/wapanel) - Simple panel for Wayland with decent XFCE-like applets
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
 * wf-panel (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Panel with support for application launchers
+* [YaGoStatus](https://github.com/denysvitali/yagostatus) - Yet Another i3status replacement
 * [yambar](https://gitlab.com/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
 
 ## Tools
