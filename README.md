@@ -78,7 +78,7 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 
 ## Docks
 
-[Cairo Dock (wayland_egl)](https://github.com/dkondor/cairo-dock-core/tree/wayland_egl)) - Early port of the feature rich Cairo. Core features work.  
+[Cairo Dock (wayland_egl)](https://github.com/dkondor/cairo-dock-core/tree/wayland_egl) - Early port of the feature rich Cairo. Core features work.  
 wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simple dock for application switching (no launching)
 
 
